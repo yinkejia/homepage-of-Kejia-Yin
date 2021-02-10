@@ -2,13 +2,6 @@
 
 ### Kejia Yin
 
-Undergraduate student |
-Beijing Institute of Technology|
-School of Computer Science and Technology|
-E-mail：yinkejiaykj@163.com|
-5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China|
-
-
 <table border="0">
   <tr>
     <td width="75%">
