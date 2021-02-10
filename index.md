@@ -58,6 +58,20 @@
   </tr>
 </table>
 
+### AWARDS
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <ui>
+        <li> Second-class scholarship</li>
+        <li>Third-class scholarships(3 times)</li>
+        <li>Outstanding Individual Award</li>
+      </ui>
+    </td>
+  </tr>
+</table>
+
 
 ```markdown
 Syntax highlighted code block
