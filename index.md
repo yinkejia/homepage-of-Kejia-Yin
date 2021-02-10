@@ -21,6 +21,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </tr>
 </table>
 
+### Kejia Yin
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Undergraduate student</b></p>
+      <p><b>Beijing Institute of Technology</b></p>
+      <p><b>School of Computer Science and Technology</b></p>
+      <p><b>E-mail：yinkejiaykj@163.com</b></p>
+      <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 ```markdown
 Syntax highlighted code block
 
