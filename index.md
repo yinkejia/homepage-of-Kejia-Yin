@@ -6,6 +6,7 @@
   <tr>
     <td width="100%">
       <p><b>Undergraduate student</b></p>
+      <HR>
       <p><b>Beijing Institute of Technology</b></p>
       <p><b>School of Computer Science and Technology</b></p>
       <p><b>E-mail：yinkejiaykj@163.com</b></p>
