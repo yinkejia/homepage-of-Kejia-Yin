@@ -2,6 +2,7 @@
 
 ### Kejia Yin
 
+![yinkejia](https://yinkejia.github.io/homepage-of-Kejia-Yin/gh-pages/DCGAN_Animate.png)
 <table border="0">
   <tr>
     <td width="75%">
