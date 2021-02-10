@@ -53,19 +53,6 @@
         <li>Implemented a method proposed by senior research assistant and tested its results on artificial long tailed datasets CIFAR-100</li>
         <li>Trying to propose a novel approach to deal with the long tailed classification problem with other research assistants and advisor</li>
       </ui>
-      <p><b>Major GPA: 4/4</b></p>
-      <p><b>Core Courses: </b><p>
-      <ui>
-        <li>Programming methods and practices(100 ,top 1)</li>
-        <li>Software testing and quality assurance(100, top 1)</li>
-        <li>Fundamentals of cryptography (99, top 1)</li>
-        <li>Computer Science and Programming (C Language)(98, top 3)</li> 
-        <li>Database principle and design (94)</li>
-        <li>Computational theory and algorithm analysis and design(94)</li>
-        <li>Object-oriented technology and method (92)</li>
-        <li>Data structure(90)</li> 
-        <li>Fundamentals of Web Development(85)</li>
-      </ui>
     </td>
   </tr>
 </table>
