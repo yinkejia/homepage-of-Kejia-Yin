@@ -26,9 +26,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <table border="0">
   <tr>
     <td width="75%">
-      **Overall GPA: 3.72/4.0**
+      <p><b>Overall GPA: 3.72/4.0</b></p>
       <p><b>Major GPA: 4/4</b></p>
-      <p><b>E-mail：yinkejiaykj@163.com</b></p>
+      <p><b>Core Courses: Database principle and design (94), Object-oriented technology and method (92), Fundamentals of cryptography (99, top 1), Software testing and quality assurance(100, top 1), Computational theory and algorithm analysis and design(94), Data structure(90), Computer Science and Programming (C Language)(98, top 3), Programming methods and practices(100 ,top 1), Fundamentals of Web Development(85),</b></p>
       <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
     <td width="25%">
