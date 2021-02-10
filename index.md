@@ -4,16 +4,16 @@ You can use the [editor on GitHub](https://github.com/yinkejia/homepage-of-Kejia
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Kejia Yin
 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>Undergraduate student</b></p>
+      <p><b>Beijing Institute of Technology</b></p>
+      <p><b>School of Computer Science and Technology</b></p>
+      <p><b>E-mail：yinkejiaykj@163.com</b></p>
+      <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
