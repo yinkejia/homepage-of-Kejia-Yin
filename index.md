@@ -2,7 +2,7 @@
 
 ### Kejia Yin
 
-Undergraduate student
+Undergraduate student | ![image](https://github.com/yinkejia/homepage-of-Kejia-Yin/blob/gh-pages/DCGAN_Animate.png)
 
 Beijing Institute of Technology
 
