@@ -30,19 +30,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>Major GPA: 4/4</b></p>
       <p><b>Core Courses: </b><p>
       <ui>
-        <li>Database principle and design (94)</li>
-        <li>Object-oriented technology and method (92)</li>
-        <li>Fundamentals of cryptography (99, top 1)</li>
-        <li>Software testing and quality assurance(100, top 1)</li>
-        <li>Computational theory and algorithm analysis and design(94)</li>
-        <li>Data structure(90)</li> 
-        <li>Computer Science and Programming (C Language)(98, top 3)</li> 
         <li>Programming methods and practices(100 ,top 1)</li>
+        <li>Software testing and quality assurance(100, top 1)</li>
+        <li>Fundamentals of cryptography (99, top 1)</li>
+        <li>Computer Science and Programming (C Language)(98, top 3)</li> 
+        <li>Database principle and design (94)</li>
+        <li>Computational theory and algorithm analysis and design(94)</li>
+        <li>Object-oriented technology and method (92)</li>
+        <li>Data structure(90)</li> 
         <li>Fundamentals of Web Development(85)</li>
-      <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
