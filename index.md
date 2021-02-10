@@ -37,9 +37,6 @@
         <li>Data structure(90)</li> 
         <li>Fundamentals of Web Development(85)</li>
       </ui>
-    </td>
-  </tr>
-</table>
 
 ### RESEARCH EXPERIENCE
 
