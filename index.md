@@ -4,15 +4,15 @@
 
 <table border="0">
   <tr>
-    <td width="100%">
+    <td width="75%">
       <p><b>Undergraduate student</b></p>
       <p><b>Beijing Institute of Technology</b></p>
       <p><b>School of Computer Science and Technology</b></p>
       <p><b>E-mail：yinkejiaykj@163.com</b></p>
       <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
-    <td width="0%">
-      <p><i></i></p>
+    <td width="25%">
+      <p><i>img src=https://github.com/yinkejia/homepage-of-Kejia-Yin/blob/gh-pages/DCGAN_Animate.png"" width="100%"></i></p>
     </td>
   </tr>
 </table>
