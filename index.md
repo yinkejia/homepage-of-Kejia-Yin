@@ -49,7 +49,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Research on long tailed classification| Beijing Institute of Technology | Research Assistant            Feb 2021 - Present</b></p>
+      <p><b>Research on long tailed classification| Beijing Institute of Technology | Research Assistant | Feb 2021 - Present |</b></p>
+      <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
+      <ui>
+        <li>Read six papers related to long tailed classification</li>
+        <li>Implemented a method proposed by senior research assistant and tested its results on artificial long tailed datasets CIFAR-100</li>
+        <li>Trying to propose a novel approach to deal with the long tailed classification problem with other research assistants and advisor</li>
+      </ui>
       <p><b>Major GPA: 4/4</b></p>
       <p><b>Core Courses: </b><p>
       <ui>
@@ -83,13 +89,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yinkejia/homepage-of-Kejia-Yin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
