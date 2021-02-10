@@ -12,7 +12,7 @@
       <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
     <td width="25%">
-      <p><i>img src=https://yinkejia.github.io/homepage-of-Kejia-Yin/DCGAN_Animate.png"" width="100%"></i></p>
+      <p><i>img src=https://yinkejia.github.io/homepage-of-Kejia-Yin/gh-pages/DCGAN_Animate.png"" width="100%"></i></p>
     </td>
   </tr>
 </table>
