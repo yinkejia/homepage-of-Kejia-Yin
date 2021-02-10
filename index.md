@@ -26,9 +26,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <table border="0">
   <tr>
     <td width="75%">
-      <p front-weight : 700><b>Overall GPA: 3.72/4.0</b></p>
+      <p><b>**Overall GPA: 3.72/4.0**</b></p>
       <p><b>Major GPA: 4/4</b></p>
-      <p><b>School of Computer Science and Technology</b></p>
+      
       <p><b>E-mail：yinkejiaykj@163.com</b></p>
       <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
