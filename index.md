@@ -6,7 +6,6 @@
   <tr>
     <td width="100%">
       <p><b>Undergraduate student</b></p>
-      <HR>
       <p><b>Beijing Institute of Technology</b></p>
       <p><b>School of Computer Science and Technology</b></p>
       <p><b>E-mail：yinkejiaykj@163.com</b></p>
@@ -55,6 +54,17 @@
         <li>Implemented a method proposed by senior research assistant and tested its results on artificial long tailed datasets CIFAR-100</li>
         <li>Trying to propose a novel approach to deal with the long tailed classification problem with other research assistants and advisor</li>
       </ui>
+      <HR>
+      <p><b>Research on checkerboard recognition and game algorithm of gobang| Beijing Institute of Technology | Research Assistant | Dec 2020 - Jan 2021 |</b></p>
+      <p>Advisor: Zhiwei Zhang, Professor at School of Computer Science, Beijing Institute of Technology</p>
+      <ui>
+        <li>Implemented checkerboard recognition based on AlexNet(CNNs) with pytorch</li>
+        <li>Implemented a gobang AI based on minimax search algorithm with python and optimized it with α-β pruning</li>
+        <li>Implemented a gobang AI based on Evolutionary algorithm with python</li>
+        <li>Implemented a gobang AI based on Evolutionary algorithm with python</li>
+        <li>Implemented a gobang AI based on Deep Q-learning with tensorflow</li>
+        <li>Wrote a report to analyze the results of the experiments above</li>
+      </ui>
     </td>
   </tr>
 </table>
@@ -72,6 +82,43 @@
     </td>
   </tr>
 </table>
+
+### LANGUAGES & SKILLS
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Languages:</b></p>
+      <ui>
+        <li>Chinese (Native)</li>
+        <li>English (Advanced)</li>
+      </ui>
+      <p><b>Programming Languages:</b></p>
+      <ui>
+        <li>C/C++</li>
+        <li>C#</li>
+        <li>python</li>
+        <li>html</li>
+        <li>SQL</li>
+        <li>Matlab</li>
+        <li>Latex</li>
+      </ui>
+      <p><b>Office Applications: </b></p>
+      <ui>
+        <li>Microsoft Office, Photoshop, Premiere, Auto CAD</li>
+      </ui>
+      <p><b>Framework & Tools:</b></p>
+      <ui>
+        <li>QT</li>
+        <li>Microsoft SQL Server</li>
+        <li>Microsoft Visual Studio</li>
+        <li>pytoch</li>
+        <li>tensorflow</li>
+      </ui>
+    </td>
+  </tr>
+</table>
+
 
 
 ```markdown
