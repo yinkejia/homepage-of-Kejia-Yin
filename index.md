@@ -12,9 +12,6 @@
       <p><b>E-mail：yinkejiaykj@163.com</b></p>
       <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
-    <td width="25%">
-      <p><i></i></p>
-    </td>
   </tr>
 </table>
 
