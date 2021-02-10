@@ -39,10 +39,33 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         <li>Object-oriented technology and method (92)</li>
         <li>Data structure(90)</li> 
         <li>Fundamentals of Web Development(85)</li>
+      </ui>
     </td>
   </tr>
 </table>
 
+### RESEARCH EXPERIENCE
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Research on long tailed classification| Beijing Institute of Technology | Research Assistant            Feb 2021 - Present</b></p>
+      <p><b>Major GPA: 4/4</b></p>
+      <p><b>Core Courses: </b><p>
+      <ui>
+        <li>Programming methods and practices(100 ,top 1)</li>
+        <li>Software testing and quality assurance(100, top 1)</li>
+        <li>Fundamentals of cryptography (99, top 1)</li>
+        <li>Computer Science and Programming (C Language)(98, top 3)</li> 
+        <li>Database principle and design (94)</li>
+        <li>Computational theory and algorithm analysis and design(94)</li>
+        <li>Object-oriented technology and method (92)</li>
+        <li>Data structure(90)</li> 
+        <li>Fundamentals of Web Development(85)</li>
+      </ui>
+    </td>
+  </tr>
+</table>
 ```markdown
 Syntax highlighted code block
 
