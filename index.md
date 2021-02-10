@@ -105,7 +105,10 @@
       </ui>
       <p><b>Office Applications: </b></p>
       <ui>
-        <li>Microsoft Office, Photoshop, Premiere, Auto CAD</li>
+        <li>Microsoft Office</li>
+        <li>Photoshop</li>
+        <li>Premiere</li>
+        <li>Auto CAD</li>
       </ui>
       <p><b>Framework & Tools:</b></p>
       <ui>
