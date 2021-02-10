@@ -25,7 +25,11 @@
       <p><b>Overall GPA: 3.72/4.0</b></p>
       <p><b>Major GPA: 4/4</b></p>
       <p><b>Core Courses: </b><p>
-      <p><ui>
+    </td>
+  </tr>
+</table>
+  
+ <ui>
         <li>Programming methods and practices(100 ,top 1)</li>
         <li>Software testing and quality assurance(100, top 1)</li>
         <li>Fundamentals of cryptography (99, top 1)</li>
@@ -35,12 +39,7 @@
         <li>Object-oriented technology and method (92)</li>
         <li>Data structure(90)</li> 
         <li>Fundamentals of Web Development(85)</li>
-       </ui></p>
-    </td>
-  </tr>
-</table>
-  
-
+       </ui>
 ### RESEARCH EXPERIENCE
 
 <table border="0">
