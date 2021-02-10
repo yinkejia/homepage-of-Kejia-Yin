@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/DCGAN_Animate.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
