@@ -8,7 +8,7 @@
     <td width="75%">
       <p><b>Undergraduate student</b></p>
       <p><b>Beijing Institute of Technology</b></p>
-      <p><b>School of Computer Science and Technology</b></p>
+      <p><b>School of Xuteli</b></p>
       <p><b>E-mail：yinkejiaykj@163.com</b></p>
       <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
