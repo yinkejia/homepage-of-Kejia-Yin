@@ -46,7 +46,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Research on long tailed classification| Research Assistant | Feb 2021 - Present |</b></p>
+      <p><strong>Research on long tailed classification| Research Assistant | Feb 2021 - Present |</strong></p>
       <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
       <ui>
         <li>Exploring novel approaches addressing long tailed image classification problem.</li>
@@ -117,8 +117,8 @@
         <li>QT</li>
         <li>Microsoft SQL Server</li>
         <li>Microsoft Visual Studio</li>
-        <li>pytoch</li>
-        <li>tensorflow</li>
+        <li>Pytoch</li>
+        <li>Tensorflow</li>
       </ui>
     </td>
   </tr>
