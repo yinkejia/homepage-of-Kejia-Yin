@@ -117,7 +117,7 @@
         <li>QT</li>
         <li>Microsoft SQL Server</li>
         <li>Microsoft Visual Studio</li>
-        <li>Pytoch</li>
+        <li>Pytorch</li>
         <li>Tensorflow</li>
       </ui>
     </td>
