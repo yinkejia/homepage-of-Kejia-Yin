@@ -1,4 +1,4 @@
-## Welcome to my personal Homepage
+# Welcome to my personal Homepage
 
 ### Kejia Yin
 
