@@ -9,6 +9,7 @@
       <p><b>Undergraduate student</b></p>
       <p><b>Beijing Institute of Technology</b></p>
       <p><b>School of Xuteli</b></p>
+      <p><b>B.E. in Computer Science and Technology</b></p>
       <p><b>E-mail：yinkejiaykj@163.com</b></p>
       <p><b>5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
     </td>
@@ -45,23 +46,26 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Research on long tailed classification| Beijing Institute of Technology | Research Assistant | Feb 2021 - Present |</b></p>
+      <p><b>Research on long tailed classification| Research Assistant | Feb 2021 - Present |</b></p>
       <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
       <ui>
-        <li>Read six papers related to long tailed classification</li>
-        <li>Implemented a method proposed by senior research assistant and tested its results on artificial long tailed datasets CIFAR-100</li>
-        <li>Trying to propose a novel approach to deal with the long tailed classification problem with other research assistants and advisor</li>
+        <li>Exploring novel approaches addressing long tailed image classification problem.</li>
+        <li>Implemented a novel method proposed by senior research assistant and tested its results on artificial long tailed datasets CIFAR-10 which had a lower top-1 error rate than SMOTE + effective number reweight(which is proposed by Class-Balanced Loss Based on Effective Number of Samples CVPR2019).</li>
       </ui>
       <HR>
-      <p><b>Research on checkerboard recognition and game algorithm of gobang| Beijing Institute of Technology | Research Assistant | Dec 2020 - Jan 2021 |</b></p>
+      <p><b>Research on checkerboard recognition and game algorithm of gobang|  Research Assistant | Dec 2020 - Jan 2021 |</b></p>
       <p>Advisor: Zhiwei Zhang, Professor at School of Computer Science, Beijing Institute of Technology</p>
       <ui>
         <li>Implemented checkerboard recognition based on AlexNet(CNNs) with pytorch</li>
-        <li>Implemented a gobang AI based on minimax search algorithm with python and optimized it with α-β pruning</li>
-        <li>Implemented a gobang AI based on Evolutionary algorithm with python</li>
-        <li>Implemented a gobang AI based on Evolutionary algorithm with python</li>
-        <li>Implemented a gobang AI based on Deep Q-learning with tensorflow</li>
-        <li>Wrote a report to analyze the results of the experiments above</li>
+        <li>Implemented three gobang AI based on minimax search algorithm, Evolutionary algorithm and Deep Q-Learning respectively.( implemented minimax search and evolutionary algorithm with python, and Deep Q-Learning with tensorflow)</li>
+        <li>Wrote a report to analyze the results of the experiments above. The gobang AI based on minimax search and Deep Q-Learning performed best which had same level with myself.</li>
+      </ui>
+       <HR>
+      <p><b>Theoretical derivation and image generation based on GAN | Research Assistant | Nov 2020 - Nov 2020 |</b></p>
+      <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
+      <ui>
+        <li>Implemented existing works on generative adversarial networks for images including DCGAN, WGAN, Cycle GAN.</li>
+        <li>Wrote a report to analyze the causes of instability of training GAN from the aspect of loss function based on formula derivation and explain the advantages of the loss function used in WGAN.</li>
       </ui>
     </td>
   </tr>
@@ -121,21 +125,3 @@
 </table>
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
