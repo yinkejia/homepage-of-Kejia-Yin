@@ -50,7 +50,7 @@
       <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
       <ui>
         <li>Exploring novel approaches addressing long tailed image classification problem.</li>
-        <li>Implemented a novel method proposed by senior research assistant and tested its results on artificial long tailed datasets CIFAR-10 which had a lower top-1 error rate than SMOTE + effective number reweight(which is proposed by Class-Balanced Loss Based on Effective Number of Samples CVPR2019).</li>
+        <li>Implemented a novel method proposed by senior research assistant and tested its results on artificial long tailed datasets CIFAR-10 which had a lower top-1 error rate than SMOTE + effective number reweight(which is proposed by <i>Class-Balanced Loss Based on Effective Number of Samples CVPR2019</i>).</li>
       </ui>
       <HR>
       <p><strong>Research on checkerboard recognition and game algorithm of gobang|  Research Assistant | Dec 2020 - Jan 2021 |</strong></p>
