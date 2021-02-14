@@ -21,8 +21,8 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Overall GPA: 3.72/4.0</b></p>
-      <p><b>Major GPA: 4/4</b></p>
+      <p><strong>Overall GPA: 3.72/4.0</strong></p>
+      <p><strong>Major GPA: 4.0/4.0</strong></p>
       <p><strong>Core Courses: </strong></p>
       <ui>
         <li>Programming methods and practices(100 ,top 1)</li>
