@@ -23,7 +23,7 @@
     <td width="75%">
       <p><b>Overall GPA: 3.72/4.0</b></p>
       <p><b>Major GPA: 4/4</b></p>
-      <p><b>Core Courses: </b></p>
+      <p><strong>Core Courses: </strong></p>
       <ui>
         <li>Programming methods and practices(100 ,top 1)</li>
         <li>Software testing and quality assurance(100, top 1)</li>
@@ -53,7 +53,7 @@
         <li>Implemented a novel method proposed by senior research assistant and tested its results on artificial long tailed datasets CIFAR-10 which had a lower top-1 error rate than SMOTE + effective number reweight(which is proposed by Class-Balanced Loss Based on Effective Number of Samples CVPR2019).</li>
       </ui>
       <HR>
-      <p><b>Research on checkerboard recognition and game algorithm of gobang|  Research Assistant | Dec 2020 - Jan 2021 |</b></p>
+      <p><strong>Research on checkerboard recognition and game algorithm of gobang|  Research Assistant | Dec 2020 - Jan 2021 |</strong></p>
       <p>Advisor: Zhiwei Zhang, Professor at School of Computer Science, Beijing Institute of Technology</p>
       <ui>
         <li>Implemented checkerboard recognition based on AlexNet(CNNs) with pytorch</li>
@@ -61,7 +61,7 @@
         <li>Wrote a report to analyze the results of the experiments above. The gobang AI based on minimax search and Deep Q-Learning performed best which had same level with myself.</li>
       </ui>
        <HR>
-      <p><b>Theoretical derivation and image generation based on GAN | Research Assistant | Nov 2020 - Nov 2020 |</b></p>
+      <p><strong>Theoretical derivation and image generation based on GAN | Research Assistant | Nov 2020 - Nov 2020 |</strong></p>
       <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
       <ui>
         <li>Implemented existing works on generative adversarial networks for images including DCGAN, WGAN, Cycle GAN.</li>
@@ -90,12 +90,12 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Languages:</b></p>
+      <p><strong>Languages:</strong></p>
       <ui>
         <li>Chinese (Native)</li>
         <li>English (Advanced)</li>
       </ui>
-      <p><b>Programming Languages:</b></p>
+      <p><strong>Programming Languages:</strong></p>
       <ui>
         <li>C/C++</li>
         <li>C#</li>
@@ -105,14 +105,14 @@
         <li>Matlab</li>
         <li>Latex</li>
       </ui>
-      <p><b>Office Applications: </b></p>
+      <p><strong>Office Applications: </strong></p>
       <ui>
         <li>Microsoft Office</li>
         <li>Photoshop</li>
         <li>Premiere</li>
         <li>Auto CAD</li>
       </ui>
-      <p><b>Framework & Tools:</b></p>
+      <p><strong>Framework & Tools:</strong></p>
       <ui>
         <li>QT</li>
         <li>Microsoft SQL Server</li>
