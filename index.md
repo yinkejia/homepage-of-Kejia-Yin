@@ -22,7 +22,7 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <p>Now, I’m a student in BIT, school of Xuteli. Xuteli School recruits the best students in BIT and aims to cultivate research-oriented talents. Thanks to its great policy, I was able to meet my <a href="http://shuangli.xyz/" target="_blank">advisor</a> and start my research career as a senior student. </p>
+      <p>Now, I’m a student in BIT, school of Xuteli. Xuteli School recruits the best students in BIT and aims to cultivate research-oriented talents. Thanks to its great policy, I was able to meet my advisor Prof.<a href="http://shuangli.xyz/" target="_blank">Shuang Li</a> and start my research career as a senior student. </p>
       <p>I’m a hardworking and conscientious student. I always finishes my work with good quality well before the deadline. Also, I am a person with strong self-learning ability. I’m always willing to learn new knowledge by myself.</p>
      </td>
   </tr>
