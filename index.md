@@ -33,19 +33,22 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><strong>Overall GPA: 3.72/4.0</strong></p>
-      <p><strong>Major GPA: 4.0/4.0</strong></p>
+      <p><strong>Overall GPA: 3.74/4.0</strong></p>
+      <p><strong>Major GPA: 3.91/4.0</strong></p>
       <p><strong>Core Courses: </strong></p>
       <ui>
         <li>Programming methods and practices(100 ,top 1)</li>
         <li>Software testing and quality assurance(100, top 1)</li>
         <li>Fundamentals of cryptography (99, top 1)</li>
+        <li>Operating system course design(99, top 1)</li>
+        <li>Cryptographic protocol design and analysis(98, top 1)</li>
         <li>Computer Science and Programming (C Language)(98, top 3)</li> 
+        <li>Fundamentals of Software Engineering(95, top 3)</li>
         <li>Database principle and design (94)</li>
         <li>Computational theory and algorithm analysis and design(94)</li>
         <li>Object-oriented technology and method (92)</li>
         <li>Data structure(90)</li> 
-        <li>Fundamentals of Web Development(85)</li>
+        <li>Fundamentals of Artificial Intelligence(91)</li>
        </ui>
      </td>
   </tr>
