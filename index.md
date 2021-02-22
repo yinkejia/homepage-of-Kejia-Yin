@@ -47,8 +47,8 @@
         <li>Database principle and design (94)</li>
         <li>Computational theory and algorithm analysis and design(94)</li>
         <li>Object-oriented technology and method (92)</li>
-        <li>Data structure(90)</li> 
         <li>Fundamentals of Artificial Intelligence(91)</li>
+        <li>Data structure(90)</li>       
        </ui>
      </td>
   </tr>
